@@ -28,3 +28,4 @@ L'APK viene compilato automaticamente tramite GitHub Actions.
 - Android 5.0+ (API 21+)
 - Size: ~80MB
 - Funziona completamente offline
+- 
